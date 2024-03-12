@@ -1,0 +1,25 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #6373a4;
+  border-radius: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 15px;
+  height: 45px;
+}
+
+.delete-button {
+  border: none;
+  background: transparent;
+  color: red;
+  font-weight: bold;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.update-button {
+  background: transparent;
+  border: none;
+}
